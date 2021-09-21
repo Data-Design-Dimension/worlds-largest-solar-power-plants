@@ -1,8 +1,6 @@
 # THE 20 LARGEST SOLAR POWER PLANTS IN THE WORLD
 
-Made in response to #MakeoverMonday dataset #37 week of Sept. 9, 2021
-More information on this challenge at <a href="https://data.world/makeovermonday/2021w38"> data.world </a> 
-Find more datasets and challenges at <a href="https://www.makeovermonday.co.uk/data/"> Makeover Monday Data Sets</a>
+Made in response to #MakeoverMonday challenge and dataset #37 for the week of Sept. 9, 2021 at <a href="https://data.world/makeovermonday/2021w38"> data.world </a> 
 
 <img src="/output/MWpAcre_by_year.png" alt="Scatterplot graph of the Megawatts Peak Capacity divided by each acre of the size for each of the Top 20 Power Plants plotted on the vertical y axis by the years of 2016 to 2020 of recorded data as plotted along the horizontal x axis showing a trend increasing in wattage per acre.">
 
