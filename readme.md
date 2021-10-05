@@ -9,5 +9,8 @@ Made in response to #MakeoverMonday challenge and dataset #37 for the week of Se
 
 View the Jupyter Notebook (.ipynb) file in your browser with the Python code for more information on the analysis and process.
 
+<!-- my custom buy me and a mentee a tea button -->
+<a href="https://www.buymeacoffee.com/earthtokathy"><img src="https://img.buymeacoffee.com/button-api/?text=Fuel mentorship with tea&emoji=🍵&slug=earthtokathy&button_colour=ecd0df&font_colour=062D3F&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-<a href="https://www.buymeacoffee.com/earthtokathy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Matcha Latte" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<!-- standard buy me a coffee orange button for reference -->
+<!-- <a href="https://www.buymeacoffee.com/earthtokathy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
